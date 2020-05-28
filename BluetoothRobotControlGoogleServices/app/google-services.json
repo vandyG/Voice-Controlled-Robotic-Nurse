@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992898467398",
+    "firebase_url": "https://voice-controlled-robotic-nurse.firebaseio.com",
+    "project_id": "voice-controlled-robotic-nurse",
+    "storage_bucket": "voice-controlled-robotic-nurse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992898467398:android:45ef8e6485fc95b55e6c47",
+        "android_client_info": {
+          "package_name": "com.github.lukaszbudnik.bluetoothrobotcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992898467398-1qt6jsud6vpuajfm5335lfr03qi06rmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGS53qWnC_88X3PZkF4x7ODA3G32PnnRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992898467398-1qt6jsud6vpuajfm5335lfr03qi06rmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "Google Speech API application (for testing purposes only)",
+  "main": "server.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/speech": "^0.6.0",
+    "@google-cloud/storage": "^0.7.0",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "firebase-admin": "^4.1.0",
+    "node-gcm": "^0.14.4"
+  },
+  "engines": {
+    "node": "6.9.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
