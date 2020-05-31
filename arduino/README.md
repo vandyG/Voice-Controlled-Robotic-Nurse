@@ -1,2 +1,2 @@
 # arduino
-Various codes I use to run my Arduino-controlled circuits and robots.
+Various codes to run Arduino-controlled circuits and robots.
